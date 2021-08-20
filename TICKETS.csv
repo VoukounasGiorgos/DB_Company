@@ -1,0 +1,26 @@
+NUM,KIND,LOCATION,PRICE,DATE,CAT
+1,1,Farroupilha,5,7/15/2019,C
+2,2,Changping,5,5/29/2018,C
+3,3,Tabalosos,5,6/30/2018,T
+4,3,Wuma,4,10/25/2018,T
+5,1,Steinkjer,5,2/13/2019,C
+6,3,Dongba,6,12/16/2018,T
+7,2,Yejia,7,8/8/2018,C
+8,1,Kadugedong,5,5/7/2018,T
+9,3,Boca Raton,5,3/3/2019,C
+10,1,Hultsfred,5,4/3/2018,T
+11,2,Los Dos Caminos,6,10/30/2018,C
+12,2,Pita Kotte,6,4/26/2018,T
+13,3,Hương Sơn,5,6/6/2018,C
+14,1,Sri Jayewardenepura Kotte,6,11/13/2018,T
+15,1,Beruniy,5,12/21/2018,T
+16,1,Jucás,5,12/23/2018,T
+17,1,Ujazd,5,7/28/2018,C
+18,1,Rýmařov,5,6/5/2018,T
+19,1,Tumu’ertai,5,9/18/2018,T
+20,2,Sanjwāl,5,9/30/2018,B
+21,1,Leles,6,3/4/2019,B
+22,2,Diwopu,6,2/9/2019,B
+23,3,Yongchang,6,7/28/2018,B
+24,3,Dongzhaogezhuang,5,2/13/2019,B
+25,3,Calçada,5,3/23/2019,B
